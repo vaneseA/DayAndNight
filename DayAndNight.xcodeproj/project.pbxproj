@@ -16,6 +16,7 @@
 		A8E89E8327A9311600D9736E /* DayAndNightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E89E8227A9311600D9736E /* DayAndNightTests.swift */; };
 		A8E89E8D27A9311600D9736E /* DayAndNightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E89E8C27A9311600D9736E /* DayAndNightUITests.swift */; };
 		A8E89E8F27A9311600D9736E /* DayAndNightUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E89E8E27A9311600D9736E /* DayAndNightUITestsLaunchTests.swift */; };
+		A8E89E9C27A9314400D9736E /* ChangeTimeOfDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E89E9B27A9314400D9736E /* ChangeTimeOfDayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A8E89E8827A9311600D9736E /* DayAndNightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DayAndNightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8E89E8C27A9311600D9736E /* DayAndNightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayAndNightUITests.swift; sourceTree = "<group>"; };
 		A8E89E8E27A9311600D9736E /* DayAndNightUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayAndNightUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A8E89E9B27A9314400D9736E /* ChangeTimeOfDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeTimeOfDayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				A8E89E7527A9311600D9736E /* Persistence.swift */,
 				A8E89E7727A9311600D9736E /* DayAndNight.xcdatamodeld */,
 				A8E89E7227A9311600D9736E /* Preview Content */,
+				A8E89E9B27A9314400D9736E /* ChangeTimeOfDayView.swift */,
 			);
 			path = DayAndNight;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			files = (
 				A8E89E7627A9311600D9736E /* Persistence.swift in Sources */,
 				A8E89E6F27A9311500D9736E /* ContentView.swift in Sources */,
+				A8E89E9C27A9314400D9736E /* ChangeTimeOfDayView.swift in Sources */,
 				A8E89E6D27A9311500D9736E /* DayAndNightApp.swift in Sources */,
 				A8E89E7927A9311600D9736E /* DayAndNight.xcdatamodeld in Sources */,
 			);
